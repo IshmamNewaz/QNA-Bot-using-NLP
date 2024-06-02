@@ -1,0 +1,172 @@
+[
+    {
+        "context": "American International University-Bangladesh (AIUB) is a private university located in Dhaka, Bangladesh.",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What type of university is AIUB?",
+                "answers": [{"text": "private university", "answer_start": 57}]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "Where is AIUB located?",
+                "answers": [{"text": "Dhaka, Bangladesh", "answer_start": 87}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB was established in 1994 and offers undergraduate and postgraduate programs in various fields.",
+        "qas": [
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "When was AIUB established?",
+                "answers": [{"text": "1994", "answer_start": 24}]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What types of programs does AIUB offer?",
+                "answers": [{"text": "undergraduate and postgraduate programs", "answer_start": 40}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB is known for its strong emphasis on science, engineering, and business programs.",
+        "qas": [
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What fields does AIUB emphasize?",
+                "answers": [{"text": "science, engineering, and business programs", "answer_start": 41}]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is AIUB known for?",
+                "answers": [{"text": "strong emphasis on science, engineering, and business programs", "answer_start": 22}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB's campus is equipped with modern facilities, including state-of-the-art laboratories and libraries.",
+        "qas": [
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What type of facilities does AIUB's campus have?",
+                "answers": [{"text": "modern facilities, including state-of-the-art laboratories and libraries", "answer_start": 31}]
+            },
+            {
+                "id": "00008",
+                "is_impossible": true,
+                "question": "What is the name of the AIUB's campus?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The AIUB library has a vast collection of books, journals, and digital resources to support student learning.",
+        "qas": [
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "What resources does the AIUB library offer?",
+                "answers": [{"text": "books, journals, and digital resources", "answer_start": 42}]
+            },
+            {
+                "id": "00010",
+                "is_impossible": false,
+                "question": "How does the AIUB library support student learning?",
+                "answers": [{"text": "by offering a vast collection of books, journals, and digital resources", "answer_start": 23}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB has various student organizations and clubs that provide opportunities for extracurricular activities and personal development.",
+        "qas": [
+            {
+                "id": "00011",
+                "is_impossible": false,
+                "question": "What does AIUB offer for extracurricular activities?",
+                "answers": [{"text": "various student organizations and clubs", "answer_start": 9}]
+            },
+            {
+                "id": "00012",
+                "is_impossible": true,
+                "question": "How many student organizations does AIUB have?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "AIUB has established partnerships with several international universities for student exchange and collaborative research programs.",
+        "qas": [
+            {
+                "id": "00013",
+                "is_impossible": false,
+                "question": "What has AIUB established with international universities?",
+                "answers": [{"text": "partnerships for student exchange and collaborative research programs", "answer_start": 21}]
+            },
+            {
+                "id": "00014",
+                "is_impossible": false,
+                "question": "What type of programs does AIUB collaborate on with international universities?",
+                "answers": [{"text": "student exchange and collaborative research programs", "answer_start": 78}]
+            }
+        ]
+    },
+    {
+        "context": "The AIUB campus hosts annual cultural and sports events to promote student engagement and community building.",
+        "qas": [
+            {
+                "id": "00015",
+                "is_impossible": false,
+                "question": "What type of events does the AIUB campus host annually?",
+                "answers": [{"text": "cultural and sports events", "answer_start": 29}]
+            },
+            {
+                "id": "00016",
+                "is_impossible": true,
+                "question": "When is the annual cultural event held at AIUB?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "AIUB's mission is to provide quality education and contribute to the development of skilled professionals in Bangladesh.",
+        "qas": [
+            {
+                "id": "00017",
+                "is_impossible": false,
+                "question": "What is AIUB's mission?",
+                "answers": [{"text": "to provide quality education and contribute to the development of skilled professionals in Bangladesh", "answer_start": 18}]
+            },
+            {
+                "id": "00018",
+                "is_impossible": false,
+                "question": "What does AIUB aim to contribute to?",
+                "answers": [{"text": "the development of skilled professionals in Bangladesh", "answer_start": 65}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB has received numerous awards and recognitions for its academic excellence and contributions to higher education in Bangladesh.",
+        "qas": [
+            {
+                "id": "00019",
+                "is_impossible": false,
+                "question": "What has AIUB received for its academic excellence?",
+                "answers": [{"text": "numerous awards and recognitions", "answer_start": 18}]
+            },
+            {
+                "id": "00020",
+                "is_impossible": false,
+                "question": "What contributions has AIUB made to higher education in Bangladesh?",
+                "answers": [{"text": "academic excellence and contributions to higher education in Bangladesh", "answer_start": 59}]
+            }
+        ]
+    }
+]

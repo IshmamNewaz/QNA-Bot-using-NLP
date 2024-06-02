@@ -1,0 +1,112 @@
+[
+    {
+        "context": "AIUB is a University situated in Kuratoli, Dhaka",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Where is AIUB?",
+                "answers": [{"text": "Kuratoli", "answer_start": 33}]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "what is AIUB's Location?",
+                "answers": [{"text": "Kuratoli, Dhaka", "answer_start": 33}]
+            }
+    
+        ]
+    },
+    {
+        "context": "AIUB's Full form is American International University Bangladesh",
+        "qas": [
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "what is the full form of AIUB?",
+                "answers": [{"text": "American International University Bangladesh", "answer_start": 20}]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "full form of AIUB",
+                "answers": [{"text": "American International University Bangladesh", "answer_start": 20}]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "full name of AIUB",
+                "answers": [{"text": "American International University Bangladesh", "answer_start": 20}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB is an Engineering University, It is well known for it's Engineering departments.",
+        "qas": [
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is AIUB well known for?",
+                "answers": [{"text": "well known for it's Engineering departments.", "answer_start": 41}]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What type of university AIUB is?",
+                "answers": [{"text": "Engineering University", "answer_start": 11}]
+            }
+        ]
+    },
+    {
+        "context": "EEE and CSE are the most famous departments of AIUB",
+        "qas": [
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is AIUB famous for?",
+                "answers": [{"text": "CSE and EEE", "answer_start": 1}]
+            },
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "What are the most famous departments of AIUB?",
+                "answers": [{"text": "EEE and CSE", "answer_start": 1}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB was established in 1994 and offers undergraduate and postgraduate programs in various fields.",
+        "qas": [
+            {
+                "id": "00010",
+                "is_impossible": false,
+                "question": "When was AIUB established?",
+                "answers": [{"text": "1994", "answer_start": 24}]
+            },
+            {
+                "id": "00011",
+                "is_impossible": false,
+                "question": "What types of programs does AIUB offer?",
+                "answers": [{"text": "undergraduate and postgraduate programs", "answer_start": 40}]
+            }
+        ]
+    },
+    {
+        "context": "AIUB is also known for its strong emphasis on science, engineering, and business programs.",
+        "qas": [
+            {
+                "id": "00012",
+                "is_impossible": false,
+                "question": "What fields does AIUB emphasize?",
+                "answers": [{"text": "science, engineering, and business programs", "answer_start": 46}]
+            },
+            {
+                "id": "00013",
+                "is_impossible": false,
+                "question": "What is AIUB known for?",
+                "answers": [{"text": "strong emphasis on science, engineering, and business programs", "answer_start": 27}]
+            }
+        ]
+    }
+
+]
